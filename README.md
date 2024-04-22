@@ -1,2 +1,2 @@
 # Dental_Clinic-Appointment
-Dental_Clinic-Appointment System
+I developed this Dental_Clinic-Appointment System website using HTML CSS and javascript.
